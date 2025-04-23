@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me
 🔭 I’m currently working on autstaff and my own projects<br>🌱 I’m currently learning React and Next<br>💬 Ask me about anything, I’ll be happy to answer<br>⚡ Fun fact I'm 20 and I already have 4 years of work experience
 
 
